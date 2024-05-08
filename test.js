@@ -1,7 +1,7 @@
-const START = 29;
-const END   = 31;
-const STEP  = 1;
-const FIND  = 30;
+const START = 1;
+const END   = 100;
+const STEP  = 9;
+const FIND  = 99;
 
 var found = false;
 
