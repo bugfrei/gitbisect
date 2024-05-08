@@ -23,7 +23,6 @@ else {
 console.log("Weiterer Code...");
 console.log("Nochmehr Code...");
 
-for(var i = 10; i < 20; i++) {
-    console.log(i);
-}
+console.log("keine Zahlen mehr ausgeben...");
+
 
