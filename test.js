@@ -31,7 +31,7 @@ console.log("GROßE ÄNDERUNG!!!");
 
 var s = "";
 for(var i = 0; i < 50; i++) {
-    s += ".";
+    s += "-";
 }
 console.log(s);
 
