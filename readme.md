@@ -72,4 +72,6 @@ Mit der VSC Code Erweiterung `Git Graph` kann auch die Differenz der beiden Date
 
 ![Vergleich](pics/4.png)
 
-
+> Wird `View Diff with Working File` ausgewählt, dann wird immer mit dem aktuellen Commit verglichen. Dieser sollte immer der letzte funktionierende (LAST GOOD) sein. Also 1 unter dem gefundenen FIRST BAD.
+>
+> Damit wird im Diff links der BAD und rechts der GOOD dargestellt. Der Fehler ist dann immer auf der linken Seite zu suchen.
