@@ -1,6 +1,6 @@
 const START = 0;
 const END   = 100;
-const STEP  = 1;
+const STEP  = 2;
 const FIND  = 40;
 
 var found = false;
