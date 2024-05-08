@@ -25,4 +25,5 @@ console.log("Nochmehr Code...");
 
 console.log("keine Zahlen mehr ausgeben...");
 
+console.log("kleine Änderung...");
 
